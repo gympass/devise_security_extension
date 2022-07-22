@@ -164,7 +164,7 @@ GEM
     thor (0.19.4)
     thread_safe (0.3.6)
     tins (1.6.0)
-    tzinfo (1.2.3)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     unicode-display_width (1.0.5)
     warden (1.2.7)
